@@ -1,0 +1,15 @@
+13-02-58 [main] ERROR MyLogger - hello
+13-02-59 [main] INFO  MyLogger - hello
+13-02-59 [main] DEBUG MyLogger - hello
+13-03-09 [main] ERROR MyLogger - hello
+13-03-09 [main] INFO  MyLogger - hello
+13-03-09 [main] DEBUG MyLogger - hello
+13-03-09 [main] ERROR MyLogger - hello
+13-03-09 [main] INFO  MyLogger - hello
+13-03-09 [main] DEBUG MyLogger - hello
+13-54-14 [main] ERROR MyLogger - hello
+13-54-14 [main] INFO  MyLogger - hello
+13-54-14 [main] DEBUG MyLogger - hello
+13-54-14 [main] ERROR MyLogger - hello
+13-54-14 [main] INFO  MyLogger - hello
+13-54-14 [main] DEBUG MyLogger - hello
